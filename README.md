@@ -11,8 +11,6 @@ The goals of this project are to:
 - Offer strategic recommendations to help organizations improve their remote work policies and foster a healthier, more supportive work environment.
 # Data Sourcing
 This dataset was provided as part of a workplace analytics project simulation and is assumed to be a synthetic dataset designed to reflect realistic employee demographics, remote work setups, and mental well-being metrics.
-Source: Provided by [Datafied Technologies](https://www.linkedin.com/company/datafiedhub/) as part of a capstone project.
-
-Data Type: Simulated (not collected from real users)
-
-Purpose: Used for exploratory data analysis (EDA) and dashboard creation in Power BI to uncover patterns and inform remote work strategies.
+- Source: Provided by [Datafied Technologies](https://www.linkedin.com/company/datafiedhub/) as part of a capstone project.
+- Data Type: Simulated (not collected from real users)
+- Purpose: Used for exploratory data analysis (EDA) and dashboard creation in Power BI to uncover patterns and inform remote work strategies.
