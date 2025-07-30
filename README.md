@@ -18,3 +18,17 @@ This dataset was provided as part of a workplace analytics project simulation an
 Data cleaning was performed in Power BI using Power Query Editor. Steps included correcting any inconsistent dataypes, and ensuring the data is in a suitable format for analysis and visualization.
 
 <img width="1230" height="645" alt="image" src="https://github.com/user-attachments/assets/512c88b5-2a7e-45bf-9ffc-49d28a25251b" />
+
+# Data analysis and Visualization
+Appropriate chart types (e.g., bar charts, column charts, pie charts) were used to represent the metrics and insights. Interactive features such as filters were used for detailed information.
+## Overall Dashboard View
+### Description:
+This image presents the full Power BI dashboard, showing aggregated insights across all work arrangements, including on-site, remote, and hybrid employees. It offers a comprehensive view of employee demographics, stress levels, job satisfaction, and social isolation.
+
+<img width="1130" height="644" alt="image" src="https://github.com/user-attachments/assets/4ae1ea9a-076f-47d1-b3df-7531aa3578de" />
+
+## Remote Work Focused Dashboard
+### Description:
+This screenshot highlights the dashboard filtered specifically for remote workers. It reveals how mental well-being indicators like stress, satisfaction, and isolation differ under remote work conditions, helping to identify challenges unique to this group.
+
+<img width="1129" height="643" alt="image" src="https://github.com/user-attachments/assets/fda96d2c-b1ae-41e1-8aab-952ad185df8b" />
