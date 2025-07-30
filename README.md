@@ -6,6 +6,13 @@ A global HR consultancy firm is seeking to understand how remote work affects em
 # Objective
 This analysis explores the relationship between remote work and employee mental well-being, using Power BI for interactive and data-driven insights.
 The goals of this project are to:
-- Provide a clear understanding of employee demographics, work arrangements, and mental health patterns
-- Identify key factors influencing stress levels, job satisfaction, and social isolation
-- Offer strategic recommendations to help organizations improve their remote work policies and foster a healthier, more supportive work environment
+- Provide a clear understanding of employee demographics, work arrangements, and mental health patterns.
+- Identify key factors influencing stress levels, job satisfaction, and social isolation.
+- Offer strategic recommendations to help organizations improve their remote work policies and foster a healthier, more supportive work environment.
+# Data Sourcing
+This dataset was provided as part of a workplace analytics project simulation and is assumed to be a synthetic dataset designed to reflect realistic employee demographics, remote work setups, and mental well-being metrics.
+Source: Provided by [Datafied Technologies](https://www.linkedin.com/company/datafiedhub/) as part of a capstone project.
+
+Data Type: Simulated (not collected from real users)
+
+Purpose: Used for exploratory data analysis (EDA) and dashboard creation in Power BI to uncover patterns and inform remote work strategies.
