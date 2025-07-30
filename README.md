@@ -14,3 +14,7 @@ This dataset was provided as part of a workplace analytics project simulation an
 - Source: Provided by [Datafied Technologies](https://www.linkedin.com/company/datafiedhub/) as part of a capstone project.
 - Data Type: Simulated (not collected from real users)
 - Purpose: Used for exploratory data analysis (EDA) and dashboard creation in Power BI to uncover patterns and inform remote work strategies.
+# Data transformation and cleaning
+Data cleaning was performed in Power BI using Power Query Editor. Steps included correcting any inconsistent dataypes, and ensuring the data is in a suitable format for analysis and visualization.
+
+<img width="1230" height="645" alt="image" src="https://github.com/user-attachments/assets/512c88b5-2a7e-45bf-9ffc-49d28a25251b" />
